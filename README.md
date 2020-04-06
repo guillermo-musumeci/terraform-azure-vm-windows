@@ -1,2 +1,4 @@
-# terraform-azure-windows-vm
-Deploy a Windows VM using Terraform
+# Terraform Azure Windows Virtual Machine
+
+Deploy a Windows Virtual Machine in Azure using Terraform
+
