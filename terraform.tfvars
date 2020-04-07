@@ -20,9 +20,9 @@ azure-tenant-id       = "my-azure-tenant-id"
 network-vnet-cidr   = "10.128.0.0/16"
 network-subnet-cidr = "10.128.1.0/24"
 
-######################
-# Bastion Windows VM #
-######################
+##############
+# Windows VM #
+##############
 windows-vm-hostname    = "tfwinsrv"
 windows-vm-size        = "Standard_B1s"
 windows-admin-username = "tfadmin"
